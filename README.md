@@ -1,1 +1,1 @@
-Reference: https://github.com/AtsushiSakai/PythonRobotics
+Jupyter notebook implementation of https://github.com/AtsushiSakai/PythonRobotics
