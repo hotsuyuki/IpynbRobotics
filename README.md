@@ -6,11 +6,11 @@ Python Jupyter Notebooks for robotics algorithm inspired by [AtsushiSakai/Python
 
 ### [Graph Based SLAM](./SLAM/GraphBasedSLAM/)
 
-Ref: [Graph-Based-SLAM_english.pdf](./SLAM/GraphBasedSLAM/Graph-Based-SLAM_english.pdf)
-
 |  |  |  |
 | :---: | :---: | :---: |
 | ![alt](./SLAM/GraphBasedSLAM/graph_based_slam1.png) | ![alt](./SLAM/GraphBasedSLAM/graph_based_slam2.png) | ![alt](./SLAM/GraphBasedSLAM/graph_based_slam3.png) |
+
+Ref: [Graph-Based-SLAM_english.pdf](./SLAM/GraphBasedSLAM/Graph-Based-SLAM_english.pdf)
 
 
 
