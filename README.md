@@ -1,6 +1,6 @@
-# This repository is...
+# IpynbRobotics
 
-Jupyter notebook implementation of https://github.com/AtsushiSakai/PythonRobotics
+Python Jupyter Notebooks for robotics algorithm inspired by [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
 
 # SLAM
 
